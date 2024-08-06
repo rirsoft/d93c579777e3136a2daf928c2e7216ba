@@ -41,9 +41,9 @@
 
         static splashscreen(status) {
             if (status) {
-                navigator.splashscreen.show();
+                // navigator.splashscreen.show();
             } else {
-                navigator.splashscreen.hide();
+                // navigator.splashscreen.hide();
             }
         }
     }
